@@ -1,4 +1,4 @@
-# Quantitative Risk Management
+# Quantitative Risk Management 
 ## Insurance Claim Fraud Detection Leveraging Machine Learning
 
 This project focuses on developing a Machine Learning model to detect fraudulent insurance claims using models like Logistic Regression, Decision Trees, Random Forest, Gradient Boosting, Neural Networks, and a Voting Classifier. The goal is to improve fraud detection accuracy and reduce false positives to minimize operational risks.
